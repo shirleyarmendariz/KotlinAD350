@@ -1,0 +1,2 @@
+rootProject.name='KotlinAD350'
+include ':app'
